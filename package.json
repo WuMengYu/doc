@@ -1,0 +1,27 @@
+{
+    "name": "吴孟雨",
+    "version": "1.0.0",
+    "description": "欢迎来到我的网站---一家专门做特卖的网站",
+    "keywords": [
+        "note"
+    ],
+    "homepage": "http://JSLite.io",
+    "author": "WuMengYu <2683447714@qq.com>",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "licenses": "MIT",
+    "idoc": {
+        "theme": "default",
+        "md": [
+            "首页.md",
+            {
+                "react方向": [
+                    "startReact.md"
+                ]
+            },
+            "metrial-ui.md"
+        ]
+    }
+}
